@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.5.v20120123-0100,"org.eclipse.mylyn.bugzilla.core",1460179294662
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1460179294664
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1460179294665
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1460179294665
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1460179294666
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1460179294668
+started,bundle,org.eclipse.mylyn.context.ui,3.6.1.v20120112-0100,"org.eclipse.mylyn.context.ui",1460179294689
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1460179294690
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1460179294702
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1460179294703
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1460179294735
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1460179294736
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1460179294738
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1460179294740
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1460179294742
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1460179294760
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1460179294763
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1460179294763
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1460179294764
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1460179294792
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1460179294794
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1460179294795
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1460179294797
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1460179294850
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1460179294852
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1460179294854
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1460179294855
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1460179294856
+os,sysinfo,,,"win32",1460179294864
+arch,sysinfo,,,"x86",1460179294864
+ws,sysinfo,,,"win32",1460179294864
+locale,sysinfo,,,"en_US",1460179294864
+processors,sysinfo,,,"4",1460179294864
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1460179294864
+java.runtime.version,sysinfo,,,"1.7.0_79-b15",1460179294864
+java.specification.name,sysinfo,,,"Java Platform API Specification",1460179294864
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1460179294864
+java.specification.version,sysinfo,,,"1.7",1460179294864
+java.vendor,sysinfo,,,"Oracle Corporation",1460179294864
+java.version,sysinfo,,,"1.7.0_79",1460179294864
+java.vm.info,sysinfo,,,"mixed mode",1460179294864
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1460179294864
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1460179294864
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1460179294864
+java.vm.specification.version,sysinfo,,,"1.7",1460179294865
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1460179294865
+java.vm.version,sysinfo,,,"24.79-b02",1460179294865
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1460179295004
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1460179295551
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1460179295587

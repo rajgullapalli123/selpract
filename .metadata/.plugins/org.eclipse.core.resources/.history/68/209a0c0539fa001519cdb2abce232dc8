@@ -1,0 +1,10 @@
+package browserexamples;
+
+public class Chromedriverex {
+
+	public static void main(String[] args) 
+	{
+		System.setProperty("webdriver.chromedriver", "E:\\Selenium drivers\\chromedriver.exe");
+	}
+
+}

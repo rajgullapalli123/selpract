@@ -1,0 +1,16 @@
+package browserexamples;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Chromedriverex {
+
+	public static void main(String[] args) 
+	{
+		System.setProperty(WebDriver.Chrome.driver", "E:\\Selenium drivers\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("http://google.com");
+		
+	}
+
+}
